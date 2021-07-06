@@ -1,0 +1,34 @@
+h1 {
+    color:aqua;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+
+}
+body{
+    background-color:darkred;
+}
+.Header{
+    background-color:rgb(29, 4, 58);
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    display: flex;
+}
+.Grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p, h2{
+    text-align: center;
+}
+.Item{
+    background-color: blue;
+}
+.Menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: chocolate;
+}
